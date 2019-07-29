@@ -1,0 +1,1 @@
+Cleaning up the code for google home page. Use of CSS style file instead of doing CSS in the HTML
